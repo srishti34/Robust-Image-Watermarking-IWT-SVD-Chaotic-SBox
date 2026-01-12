@@ -30,6 +30,13 @@ I implemented a robust and secure digital image watermarking system using **Chao
 ## Results
 Experimental results demonstrate that the proposed **Chaotic S-Box + IWT–SVD** method achieves **high imperceptibility and strong robustness** compared to **DWT–SVD** and **DCT–SVD** techniques. The proposed approach consistently yields **higher PSNR and SSIM values**, **lower MSE and BER**, and **improved NCC**, indicating better visual quality and more reliable watermark extraction across different test images and attack scenarios.
 
+### Visual Results (IWT–SVD)
+
+The following figure shows the complete watermarking process using the proposed IWT–SVD and Chaotic S-Box method, including the original image, watermark, watermarked image, and the extracted watermark.
+
+![IWT-SVD Result](results/screenshots/iwt_svd_result.png)
+
+
 ## How to Run
 - Open the notebook from the `notebooks` folder.
 - Run all cells sequentially in **Google Colab** or **Jupyter Notebook**.
