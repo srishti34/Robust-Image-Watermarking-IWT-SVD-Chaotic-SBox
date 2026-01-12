@@ -34,7 +34,7 @@ Experimental results demonstrate that the proposed **Chaotic S-Box + IWT–SVD**
 
 The following figure shows the complete watermarking process using the proposed IWT–SVD and Chaotic S-Box method, including the original image, watermark, watermarked image, and the extracted watermark.
 
-![IWT-SVD Result](results/screenshots/iwt_svd_result.png)
+![IWT-SVD Result](https://github.com/srishti34/Robust-Image-Watermarking-IWT-SVD-Chaotic-SBox/blob/main/results/screenshots/sample1.png?raw=true)
 
 
 ## How to Run
